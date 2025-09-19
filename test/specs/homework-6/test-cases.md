@@ -1,6 +1,6 @@
 # GitHub – Test Cases  
 
-> **Note:** These test cases were originally given in a video lesson, but some steps have been adapted to match the current version of GitHub.
+> **Note:** These test cases were originally given in a [video lesson](https://www.youtube.com/watch?v=_HWLEAxXGNQ&list=PLwwD_oRdyvDNlD7upurxPCdyA4ruKa4mw&index=27), but some steps have been adapted to match the current version of GitHub.
 
 ---
 
@@ -56,3 +56,4 @@
 | **Preconditions** | Browser is open on [GitHub](https://github.com) |
 | **Steps** |1. Click **Pricing** <br> 2. Verify text “Try the Copilot-powered platform” <br> 3. Scroll to **Compare all features** and click on it <br> 4. Verify heading “Compare features” is displayed |
 | **Expected Result** | Pricing page shows correct text and clicking **Compare all features** opens section with heading “Compare features” |
+
