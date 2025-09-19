@@ -2,8 +2,8 @@ import MainPage from "./pages/dou.main.page"
 import WorkPage from "./pages/dou.work.page"
 import DefTechPage from "./pages/dou.deftech.page"
 
-describe.only("Dou website", () => {
-  it.only("should pass all", async () => {
+describe("Dou website", () => {
+  it("should pass all", async () => {
     // open main page
     await browser.url(`https://dou.ua/`)
 
