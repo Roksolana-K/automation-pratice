@@ -2,11 +2,11 @@
 
 ## 📝 Task Description  
 
-In this homework, was required to register in [TestRail](https://www.testrail.com/) and create test cases in this tool based on the test cases from **Homework 3**.
+In this homework, was required to register in [TestRail](https://www.testrail.com/) and create test cases in this tool based on the test cases from [Homework 3](https://github.com/Roksolana-K/automation-pratice/blob/main/test/specs/homework-3/test-cases.md).
 
 ## 📄 Result  
 
-All test cases from Homework 3 were successfully added to TestRail as individual test cases.
+All test cases from [Homework 3](https://github.com/Roksolana-K/automation-pratice/blob/main/test/specs/homework-3/test-cases.md) were successfully added to TestRail as individual test cases.
 
 ## 📷 Screenshots  
 
@@ -23,3 +23,4 @@ Below I’m adding screenshots to illustrate the process and results of this hom
 <img width="1919" height="771" alt="TR-05-cannot_sign_up_empty" src="https://github.com/user-attachments/assets/c26b6999-298d-49f3-b2c2-2e830db9d36b" />
 
 <img width="1919" height="758" alt="TR-06-shop_link_works" src="https://github.com/user-attachments/assets/47b35b01-9d65-4c46-879f-18542556cbae" />
+
